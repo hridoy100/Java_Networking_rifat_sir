@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="885302f0-a86a-415f-a7f0-e185fb2fb149" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cHqZEulwmbk1js0uASMk1xnKYz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="I:/web development/Protibadi" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Codes\Java programming\Networking_2020\Project1\src\com\company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lectures.tcpstring.Client" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lectures.tcpstring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Client.ClientMain" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatagramClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lectures.udp.DatagramClient" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lectures.udp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatagramServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lectures.udp.DatagramServer" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lectures.udp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lectures.tcpstring.Server" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lectures.tcpstring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientMain" />
+      <item itemvalue="Application.DatagramServer" />
+      <item itemvalue="Application.DatagramClient" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.DatagramClient" />
+        <item itemvalue="Application.DatagramServer" />
+        <item itemvalue="Application.ClientMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="885302f0-a86a-415f-a7f0-e185fb2fb149" name="Default Changelist" comment="" />
+      <created>1590195919199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590195919199</updated>
+      <workItem from="1590195924596" duration="3720000" />
+      <workItem from="1590240635870" duration="2663000" />
+      <workItem from="1590264454261" duration="599000" />
+      <workItem from="1590302679827" duration="339000" />
+      <workItem from="1590303900440" duration="47000" />
+      <workItem from="1590304164476" duration="1007000" />
+      <workItem from="1590560862182" duration="660000" />
+      <workItem from="1590606829446" duration="142000" />
+      <workItem from="1590608349676" duration="1285000" />
+      <workItem from="1590666130322" duration="1465000" />
+      <workItem from="1590698449996" duration="1288000" />
+      <workItem from="1590953152778" duration="2021000" />
+      <workItem from="1590992583390" duration="144000" />
+      <workItem from="1590996501224" duration="1213000" />
+      <workItem from="1591006680725" duration="642000" />
+      <workItem from="1591015179402" duration="1251000" />
+      <workItem from="1591044014921" duration="40000" />
+      <workItem from="1591078801467" duration="28000" />
+      <workItem from="1591434058962" duration="495000" />
+      <workItem from="1591434576399" duration="501000" />
+      <workItem from="1591435097543" duration="818000" />
+      <workItem from="1591480618624" duration="829000" />
+      <workItem from="1592089111293" duration="2683000" />
+      <workItem from="1592139987782" duration="615000" />
+      <workItem from="1592466451626" duration="303000" />
+      <workItem from="1592605289871" duration="695000" />
+      <workItem from="1592794858639" duration="845000" />
+      <workItem from="1592804936763" duration="19000" />
+      <workItem from="1592804974158" duration="458000" />
+      <workItem from="1592805484460" duration="11000" />
+      <workItem from="1592842918938" duration="49000" />
+      <workItem from="1592861218902" duration="948000" />
+      <workItem from="1592862969759" duration="412000" />
+      <workItem from="1592864001098" duration="2059000" />
+      <workItem from="1592873027720" duration="1615000" />
+      <workItem from="1592892493287" duration="606000" />
+      <workItem from="1592893978364" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590196113601">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590196113601" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590304200069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1590304200069" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1592842965846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592842965846" />
+    <state width="1323" height="116" key="GridCell.Tab.0.bottom" timestamp="1592862177750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592862177750" />
+    <state width="1323" height="116" key="GridCell.Tab.0.center" timestamp="1592862177749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592862177749" />
+    <state width="1323" height="116" key="GridCell.Tab.0.left" timestamp="1592862177749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592862177749" />
+    <state width="1323" height="116" key="GridCell.Tab.0.right" timestamp="1592862177749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592862177749" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1590209741241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590209741241" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1590209741241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590209741241" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1590209741241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590209741241" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1590209741241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590209741241" />
+    <state x="151" y="0" key="SettingsEditor" timestamp="1592805321795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="151" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592805321795" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1592893980342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592893980342" />
+    <state x="65" y="0" key="new project wizard" timestamp="1590666197957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590666197957" />
+  </component>
+</project>
